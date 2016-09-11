@@ -1,6 +1,6 @@
 # Java Interview Questions
 
-## BinaryToDecimal.java
+## [BinaryToDecimal.java](https://github.com/seanwo/interview.java/blob/master/src/BinaryToDecimal.java)
 
 Write a program to convert binary format to decimal number using numeric operations.
 
