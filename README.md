@@ -62,6 +62,10 @@ Write a program to check the given number is a perfect number or not. A perfect 
 
 Write a program to check the given number is a prime number or not.
 
+## [LongestPalidrome.java](/src/LongestPalidrome.java)
+
+Write a program to determine the longest palidrome (first if multiple) in a string.
+
 ## [MyArrayList.java](/src/MyArrayList.java)
 
 Write a program to implement ArrayList [public void add(Object obj), public int size(), public Object remove(int index), public Object get(int index)]
