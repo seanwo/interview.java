@@ -115,6 +115,10 @@ Find the sum of each digit in the given number using recursion logic.
 
 Write a program to swap or exchange two numbers. You should not use any temporary or third variable to swap.
 
+## [TinyURL.java](/src/TinyURL.java)
+
+Write a program to shorten URLs.  Provide a create and lookup method.
+
 ## [WordFrequency.java](/src/WordFrequency.java)
 
 Write a program to find all distinct words from the given String.  Remove special chars like ".,;:" etc. Ignore case sensitivity.
